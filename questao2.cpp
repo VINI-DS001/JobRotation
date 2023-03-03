@@ -7,7 +7,6 @@ int main() {
     cout << "Insira um numero: ";
     cin >> n;
 
-    // displays the first two terms which is always 0 and 1
     cout << "Sequencia de Fibonacci: " << t1 << ", " << t2 << ", ";
 
     proxNum = t1 + t2;
